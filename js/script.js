@@ -39,8 +39,8 @@ var inventoryCurrent = 0;
 
 var keyPrice = 2.50;
 
-var caseDiscount = 0;
-var keyDiscount = 0;
+var caseDiscount = 100;
+var keyDiscount = 100;
 
 var operationCases = {
 	case1: {
